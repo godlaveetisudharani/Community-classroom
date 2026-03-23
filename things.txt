@@ -1,0 +1,5 @@
+Fan
+Light
+Sofa
+Bed
+
